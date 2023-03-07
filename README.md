@@ -3,7 +3,7 @@
 The front side of the credit card payment form was prepared using gulp js, sass, and javascript.
 
 
-![Creadit Card Payment Form](https://koddepo.com/i/creadit-form.jpeg)
+![Creadit Card Payment Form](https://koddepo.com/i/creadits-form.jpeg)
 
 
   
