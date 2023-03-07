@@ -1,0 +1,27 @@
+.form-flex
+    display: flex
+    flex-wrap: nowrap
+    gap: 20px
+.form-group
+    display: inline-flex
+    flex-direction: column
+    gap: 5px
+    font-family: 'Nunito', sans-serif
+    margin-bottom: 15px
+    &:last-child
+        margin-bottom: 0
+    label
+        font-size: 18px
+
+input[type='text'].form, input[type='number'].form
+    padding: .7rem
+    border: 1px solid #dddddd
+    border-radius: 10px  
+    outline: 0  
+    -moz-appearance: textfield
+    &::-webkit-inner-spin-button
+        -webkit-appearance: none
+        margin: 0
+
+    &.block
+        display: block 
